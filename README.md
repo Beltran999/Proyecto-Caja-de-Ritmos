@@ -2,6 +2,8 @@
 
 Proyecto de la asignatura de **Procesadores Integrados**. Este proyecto consiste en el diseño e implementación de una caja de ritmos basada en microcontroladores, que permite reproducir sonidos musicales con diferentes configuraciones y funcionalidades adicionales.
 
+![Caja de Ritmos](https://github.com/user-attachments/assets/344cda45-be3a-4ed6-8814-b03a99a3c03b)
+
 ## Contenido 📂
 
 - [Descripción](#descripción)
