@@ -1,6 +1,6 @@
 # Proyecto Caja de Ritmos 🎵
 
-Un proyecto de ingeniería electrónica desarrollado como parte de la asignatura de **Procesadores Integrados**. Este proyecto consiste en el diseño e implementación de una caja de ritmos basada en microcontroladores, que permite reproducir sonidos musicales con diferentes configuraciones y funcionalidades adicionales.
+Proyecto de la asignatura de **Procesadores Integrados**. Este proyecto consiste en el diseño e implementación de una caja de ritmos basada en microcontroladores, que permite reproducir sonidos musicales con diferentes configuraciones y funcionalidades adicionales.
 
 ## Contenido 📂
 
@@ -21,8 +21,7 @@ El proyecto **Caja de Ritmos** es una herramienta que combina hardware y softwar
 - Implementar conectividad Bluetooth para interacciones remotas.
 
 Este proyecto utiliza tecnologías como:
-- **Microcontroladores Arduino**.
-- **Bibliotecas de audio** para reproducción de archivos WAV.
+- **Microcontrolador ESP32**.
 - **Interfaz gráfica OLED** para visualizar la información en tiempo real.
 - **Bluetooth Low Energy (BLE)** para comunicación inalámbrica.
 
@@ -32,25 +31,17 @@ Este proyecto utiliza tecnologías como:
 - Control de volumen y velocidad mediante potenciómetros.
 - Interfaz gráfica para mostrar información del sistema.
 - Conectividad Bluetooth para configuraciones remotas.
-- Visualización del circuito mediante herramientas como TinkerCAD, Fritzing o Wokwi.
 
 ## Requisitos ⚙️
 
 - **Hardware**:
-  - Microcontrolador compatible con Arduino.
+  - Microcontrolador ESP32.
   - Pantalla OLED.
   - Tarjeta SD y lector SD.
   - Módulo Bluetooth BLE.
-  - Circuito amplificador de audio y parlantes.
+  - Circuito amplificador de audio y altavoz.
   - Potenciómetros y botones.
 
 - **Software**:
-  - [Arduino IDE](https://www.arduino.cc/en/software)
+  - [Arduino IDE]
   - Librerías utilizadas: `SD`, `SPI`, `U8g2lib`, `AudioFileSourceSD`, `AudioGeneratorWAV`, `AudioOutputI2S`, entre otras.
-
-## Instalación 🛠️
-
-1. Clona el repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/tuusuario/caja-de-ritmos.git
-   cd caja-de-ritmos
