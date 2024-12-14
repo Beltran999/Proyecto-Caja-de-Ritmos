@@ -41,10 +41,10 @@ Este proyecto utiliza tecnologías como:
   - Módulo Bluetooth BLE.
   - Circuito amplificador de audio y altavoz.
   - Potenciómetros y botones.
- 
-## Caja de Ritmos
-![Caja de Ritmos](https://github.com/user-attachments/assets/344cda45-be3a-4ed6-8814-b03a99a3c03b)
 
 - **Software**:
   - [Arduino IDE]
   - Librerías utilizadas: `SD`, `SPI`, `U8g2lib`, `AudioFileSourceSD`, `AudioGeneratorWAV`, `AudioOutputI2S`, entre otras.
+ 
+## Caja de Ritmos
+![Caja de Ritmos](https://github.com/user-attachments/assets/344cda45-be3a-4ed6-8814-b03a99a3c03b)
